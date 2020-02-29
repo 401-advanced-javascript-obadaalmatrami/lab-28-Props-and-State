@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/401-advanced-javascript-obadaalmatrami/lab-28-Props-and-Statestatic/css/main.3c5aa187.chunk.css",
+    "main.js": "/401-advanced-javascript-obadaalmatrami/lab-28-Props-and-Statestatic/js/main.7b755362.chunk.js",
+    "main.js.map": "/401-advanced-javascript-obadaalmatrami/lab-28-Props-and-Statestatic/js/main.7b755362.chunk.js.map",
+    "runtime-main.js": "/401-advanced-javascript-obadaalmatrami/lab-28-Props-and-Statestatic/js/runtime-main.5aaaa104.js",
+    "runtime-main.js.map": "/401-advanced-javascript-obadaalmatrami/lab-28-Props-and-Statestatic/js/runtime-main.5aaaa104.js.map",
+    "static/js/2.c2778d77.chunk.js": "/401-advanced-javascript-obadaalmatrami/lab-28-Props-and-Statestatic/js/2.c2778d77.chunk.js",
+    "static/js/2.c2778d77.chunk.js.map": "/401-advanced-javascript-obadaalmatrami/lab-28-Props-and-Statestatic/js/2.c2778d77.chunk.js.map",
+    "index.html": "/401-advanced-javascript-obadaalmatrami/lab-28-Props-and-Stateindex.html",
+    "precache-manifest.88e2ac93057ae8d8fdf526cc32432401.js": "/401-advanced-javascript-obadaalmatrami/lab-28-Props-and-Stateprecache-manifest.88e2ac93057ae8d8fdf526cc32432401.js",
+    "service-worker.js": "/401-advanced-javascript-obadaalmatrami/lab-28-Props-and-Stateservice-worker.js",
+    "static/css/main.3c5aa187.chunk.css.map": "/401-advanced-javascript-obadaalmatrami/lab-28-Props-and-Statestatic/css/main.3c5aa187.chunk.css.map",
+    "static/js/2.c2778d77.chunk.js.LICENSE.txt": "/401-advanced-javascript-obadaalmatrami/lab-28-Props-and-Statestatic/js/2.c2778d77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aaaa104.js",
+    "static/js/2.c2778d77.chunk.js",
+    "static/css/main.3c5aa187.chunk.css",
+    "static/js/main.7b755362.chunk.js"
+  ]
+}
